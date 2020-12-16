@@ -133,9 +133,7 @@ public class FirstAidKit {
     }
 
 
-    public static void main(String[] args) throws FirstAidKitException {
-
-    }
+    public static void main(String[] args) throws FirstAidKitException { }
 
     public static List<String> getMostFrequentBandageMaterials(List<FirstAidKit> firstAidKitList) {
         List<String> result = new ArrayList<>();
